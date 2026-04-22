@@ -159,3 +159,9 @@ curl -X POST http://localhost:5000/api/chat \
 ## Deployment
 
 The backend is a standard Node.js/Express app and can be deployed to any platform that supports persistent processes (e.g., Railway, Render, VPS). Note that **serverless platforms like Vercel are not recommended** due to stateless limitations and cold-start issues with webhooks.
+
+## Deployment Link
+
+`https://whatsapp-chatbot-1-0sqj.onrender.com`
+
+## Whatsapp Chat Link: `https://wa.me/919790776763?text=Start`
